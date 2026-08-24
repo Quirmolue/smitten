@@ -52,30 +52,6 @@ Contact / Inquiry   Event details form and next steps
 
 ## Getting started
 
-The repository is ready for the website implementation. Once application files are added, use the command set that matches the selected stack.
-
-### Option 1: Node.js web application
-
-Recommended for a React, Next.js, Vite, or similar frontend.
-
-```bash
-npm install
-npm run dev
-```
-
-Open the local URL printed in the terminal—commonly `http://localhost:3000` or `http://localhost:5173`.
-
-To create a production build:
-
-```bash
-npm run build
-npm run start
-```
-
-### Option 2: Static website
-
-If the project uses plain HTML, CSS, and JavaScript, open `index.html` in a browser or serve the directory with any local static server. For example:
-
 ```bash
 npx serve .
 ```
